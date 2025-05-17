@@ -15,7 +15,7 @@ Um projeto front-end construído com **React 19**, **TailwindCSS** e **Vite**, i
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/instagram-feed.git
+git clone https://github.com/GabrielBagetti/instagram-feed.git
 cd instagram-feed
 npm install
 npm run dev
@@ -23,6 +23,7 @@ npm run dev
 
 
 ## 📁 Estrutura do Projeto
+```bash
 instagram-feed/
 ├── index.html
 ├── package.json
@@ -36,6 +37,7 @@ instagram-feed/
     └── main.jsx
     └── PostItem.jsx
     └── posts.jsx
+```
 
 ## 📄 Licença
 Este projeto está licenciado sob a MIT License.
