@@ -19,9 +19,10 @@ git clone https://github.com/seu-usuario/instagram-feed.git
 cd instagram-feed
 npm install
 npm run dev
+```
 
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 instagram-feed/
 ├── index.html
 ├── package.json
@@ -36,5 +37,5 @@ instagram-feed/
     └── PostItem.jsx
     └── posts.jsx
 
-📄 Licença
+## 📄 Licença
 Este projeto está licenciado sob a MIT License.
