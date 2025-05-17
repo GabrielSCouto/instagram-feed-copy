@@ -22,9 +22,6 @@ npm run dev
 
 
 📁 Estrutura do Projeto
-lua
-Copiar
-Editar
 instagram-feed/
 ├── index.html
 ├── package.json
