@@ -4,8 +4,6 @@ Um projeto front-end construído com **React 19**, **TailwindCSS** e **Vite**, i
 
 <img src="preview-insta.png" alt="Project preview screenshot">
 
-**Acesse o projeto clicando** [aqui](https://instagram-feed-copy.github.io/index.html). 
-
 ## 🚀 Tecnologias Utilizadas
 
 - [React 19](https://react.dev/)
